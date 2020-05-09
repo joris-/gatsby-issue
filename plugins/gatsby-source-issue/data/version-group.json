@@ -1,0 +1,296 @@
+[
+    {
+        "generation": {
+            "name": "generation-i",
+            "url": "https://pokeapi.co/api/v2/generation/1/"
+        },
+        "id": 1,
+        "move_learn_methods": [
+            {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
+            },
+            {
+                "name": "machine",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
+            },
+            {
+                "name": "stadium-surfing-pikachu",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/5/"
+            }
+        ],
+        "name": "red-blue",
+        "order": 1,
+        "pokedexes": [
+            {
+                "name": "kanto",
+                "url": "https://pokeapi.co/api/v2/pokedex/2/"
+            }
+        ],
+        "regions": [
+            {
+                "name": "kanto",
+                "url": "https://pokeapi.co/api/v2/region/1/"
+            }
+        ],
+        "versions": [
+            {
+                "name": "red",
+                "url": "https://pokeapi.co/api/v2/version/1/"
+            },
+            {
+                "name": "blue",
+                "url": "https://pokeapi.co/api/v2/version/2/"
+            }
+        ]
+    },
+    {
+        "generation": {
+            "name": "generation-i",
+            "url": "https://pokeapi.co/api/v2/generation/1/"
+        },
+        "id": 2,
+        "move_learn_methods": [
+            {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
+            },
+            {
+                "name": "machine",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
+            },
+            {
+                "name": "stadium-surfing-pikachu",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/5/"
+            }
+        ],
+        "name": "yellow",
+        "order": 2,
+        "pokedexes": [
+            {
+                "name": "kanto",
+                "url": "https://pokeapi.co/api/v2/pokedex/2/"
+            }
+        ],
+        "regions": [
+            {
+                "name": "kanto",
+                "url": "https://pokeapi.co/api/v2/region/1/"
+            }
+        ],
+        "versions": [
+            {
+                "name": "yellow",
+                "url": "https://pokeapi.co/api/v2/version/3/"
+            }
+        ]
+    },
+    {
+        "generation": {
+            "name": "generation-ii",
+            "url": "https://pokeapi.co/api/v2/generation/2/"
+        },
+        "id": 3,
+        "move_learn_methods": [
+            {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
+            },
+            {
+                "name": "egg",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
+            },
+            {
+                "name": "machine",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
+            }
+        ],
+        "name": "gold-silver",
+        "order": 3,
+        "pokedexes": [
+            {
+                "name": "original-johto",
+                "url": "https://pokeapi.co/api/v2/pokedex/3/"
+            }
+        ],
+        "regions": [
+            {
+                "name": "kanto",
+                "url": "https://pokeapi.co/api/v2/region/1/"
+            },
+            {
+                "name": "johto",
+                "url": "https://pokeapi.co/api/v2/region/2/"
+            }
+        ],
+        "versions": [
+            {
+                "name": "gold",
+                "url": "https://pokeapi.co/api/v2/version/4/"
+            },
+            {
+                "name": "silver",
+                "url": "https://pokeapi.co/api/v2/version/5/"
+            }
+        ]
+    },
+    {
+        "generation": {
+            "name": "generation-ii",
+            "url": "https://pokeapi.co/api/v2/generation/2/"
+        },
+        "id": 4,
+        "move_learn_methods": [
+            {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
+            },
+            {
+                "name": "egg",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
+            },
+            {
+                "name": "tutor",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
+            },
+            {
+                "name": "machine",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
+            }
+        ],
+        "name": "crystal",
+        "order": 4,
+        "pokedexes": [
+            {
+                "name": "original-johto",
+                "url": "https://pokeapi.co/api/v2/pokedex/3/"
+            }
+        ],
+        "regions": [
+            {
+                "name": "kanto",
+                "url": "https://pokeapi.co/api/v2/region/1/"
+            },
+            {
+                "name": "johto",
+                "url": "https://pokeapi.co/api/v2/region/2/"
+            }
+        ],
+        "versions": [
+            {
+                "name": "crystal",
+                "url": "https://pokeapi.co/api/v2/version/6/"
+            }
+        ]
+    },
+    {
+        "generation": {
+            "name": "generation-iii",
+            "url": "https://pokeapi.co/api/v2/generation/3/"
+        },
+        "id": 7,
+        "move_learn_methods": [
+            {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
+            },
+            {
+                "name": "egg",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
+            },
+            {
+                "name": "tutor",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
+            },
+            {
+                "name": "machine",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
+            }
+        ],
+        "name": "firered-leafgreen",
+        "order": 9,
+        "pokedexes": [
+            {
+                "name": "kanto",
+                "url": "https://pokeapi.co/api/v2/pokedex/2/"
+            }
+        ],
+        "regions": [
+            {
+                "name": "kanto",
+                "url": "https://pokeapi.co/api/v2/region/1/"
+            }
+        ],
+        "versions": [
+            {
+                "name": "firered",
+                "url": "https://pokeapi.co/api/v2/version/10/"
+            },
+            {
+                "name": "leafgreen",
+                "url": "https://pokeapi.co/api/v2/version/11/"
+            }
+        ]
+    },
+    {
+        "generation": {
+            "name": "generation-iv",
+            "url": "https://pokeapi.co/api/v2/generation/4/"
+        },
+        "id": 10,
+        "move_learn_methods": [
+            {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/1/"
+            },
+            {
+                "name": "egg",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/2/"
+            },
+            {
+                "name": "tutor",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/3/"
+            },
+            {
+                "name": "machine",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/4/"
+            },
+            {
+                "name": "light-ball-egg",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/6/"
+            },
+            {
+                "name": "form-change",
+                "url": "https://pokeapi.co/api/v2/move-learn-method/10/"
+            }
+        ],
+        "name": "heartgold-soulsilver",
+        "order": 12,
+        "pokedexes": [
+            {
+                "name": "updated-johto",
+                "url": "https://pokeapi.co/api/v2/pokedex/7/"
+            }
+        ],
+        "regions": [
+            {
+                "name": "kanto",
+                "url": "https://pokeapi.co/api/v2/region/1/"
+            },
+            {
+                "name": "johto",
+                "url": "https://pokeapi.co/api/v2/region/2/"
+            }
+        ],
+        "versions": [
+            {
+                "name": "heartgold",
+                "url": "https://pokeapi.co/api/v2/version/15/"
+            },
+            {
+                "name": "soulsilver",
+                "url": "https://pokeapi.co/api/v2/version/16/"
+            }
+        ]
+    }
+]
